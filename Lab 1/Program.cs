@@ -59,7 +59,7 @@ namespace Lab_1
         {
             Console.BackgroundColor = ConsoleColor.DarkRed;
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("Invalid input!");
+            Console.WriteLine("Invalid input!!");
         }
         public static bool continueProgram()
         {
